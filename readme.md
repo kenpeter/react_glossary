@@ -21,3 +21,5 @@ React glossary
 * Redux Thunk middleware allows you to write action creators that return a function instead of an action. The thunk can be used to delay the dispatch of an action, or to dispatch only if a certain condition is met. The inner function receives the store methods dispatch and getState as parameters. [Link here](https://www.npmjs.com/package/redux-thunk)
 
 # What is redux?
+* [React JS / Redux Tutorial - 1 - What is Redux?](https://www.youtube.com/watch?v=DiLVAXlVYR0)
+* [React JS / Redux Tutorial - 2 - Overview of Redux](https://www.youtube.com/watch?v=F59Z80p1Bcw)
