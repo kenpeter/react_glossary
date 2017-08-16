@@ -23,3 +23,6 @@ React glossary
 # What is redux?
 * [React JS / Redux Tutorial - 1 - What is Redux?](https://www.youtube.com/watch?v=DiLVAXlVYR0)
 * [React JS / Redux Tutorial - 2 - Overview of Redux](https://www.youtube.com/watch?v=F59Z80p1Bcw)
+
+# What is Higher-order functions
+* [Higher-order functions - Part 1 of Functional Programming in JavaScript](https://www.youtube.com/watch?v=BMUiFMZr7vk)
