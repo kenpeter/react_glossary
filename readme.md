@@ -9,6 +9,7 @@ React glossary
 # What is virtual dom?
 * [Learn to Code: How React.js Works](https://www.youtube.com/watch?v=mLMfx8BEt8g)
 * [ReactJS Basics - #9 How does ReactJS update the DOM?](https://www.youtube.com/watch?v=Iw2BLUjQo1E)
+* [Let's Build a Virtual DOM from Scratch](https://www.youtube.com/watch?v=l2Tu0NqH0qU)
 
 # What is react-dom?
 * [React vs ReactDOM?](https://stackoverflow.com/questions/34114350/react-vs-reactdom)
@@ -26,3 +27,6 @@ React glossary
 
 # What is Higher-order functions
 * [Higher-order functions - Part 1 of Functional Programming in JavaScript](https://www.youtube.com/watch?v=BMUiFMZr7vk)
+
+# What is higher component?
+* [Lesson 11 Higher Order Components](https://www.youtube.com/watch?v=Yfr-gUAfyw8)
