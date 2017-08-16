@@ -12,3 +12,10 @@ React glossary
 
 # What is react-dom?
 * [React vs ReactDOM?](https://stackoverflow.com/questions/34114350/react-vs-reactdom)
+
+# what is thunk?
+* [What the heck is a 'thunk'?](https://daveceddia.com/what-is-a-thunk/)
+* [https://www.npmjs.com/package/redux-thunk](https://www.npmjs.com/package/redux-thunk)
+
+# What is redux-thunk?
+* Redux Thunk middleware allows you to write action creators that return a function instead of an action. The thunk can be used to delay the dispatch of an action, or to dispatch only if a certain condition is met. The inner function receives the store methods dispatch and getState as parameters.
