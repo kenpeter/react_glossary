@@ -35,3 +35,6 @@ React glossary
 * [REACT JS TUTORIAL #6 - React Router & Intro to Single Page Apps with React JS](https://www.youtube.com/watch?v=1iAG6h9ff5s)
 * [React Router Version 4: An Introduction](https://www.youtube.com/watch?v=VdyORTskPGA)
 * [ReactJS Basics - #15 React Router - Route Setup](https://www.youtube.com/watch?v=eofpZPRUnP8)
+
+# What is browserHistory?
+* [[ReactRouter] BrowserHistory in Production](https://www.youtube.com/watch?v=cdUyEou0LHg)
