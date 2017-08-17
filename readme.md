@@ -30,3 +30,6 @@ React glossary
 
 # What is higher component?
 * [Lesson 11 Higher Order Components](https://www.youtube.com/watch?v=Yfr-gUAfyw8)
+
+# How to use react-router?
+* [REACT JS TUTORIAL #6 - React Router & Intro to Single Page Apps with React JS](https://www.youtube.com/watch?v=1iAG6h9ff5s)
